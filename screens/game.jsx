@@ -17,6 +17,8 @@ import { useNavigation } from "@react-navigation/native";
 import { MaterialIcons, FontAwesome } from '@expo/vector-icons';
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
+
+
 const { width, height } = Dimensions.get("window");
 const wp = (size) => (width / 100) * size;
 const hp = (size) => (height / 100) * size;
