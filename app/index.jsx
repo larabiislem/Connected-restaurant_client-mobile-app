@@ -10,6 +10,10 @@ import { CartProvider } from '@/CartContext';
 import Main from './main';
 
 
+
+
+
+
 const Stack = createNativeStackNavigator();
 
 const Menu = () => {
