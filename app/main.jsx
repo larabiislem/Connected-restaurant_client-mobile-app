@@ -32,11 +32,7 @@ const Menu = () => {
       <Stack.Navigator screenOptions={{headerShown : false}}>
         <Stack.Screen name="Menu" component={MenuScreen} />
         <Stack.Screen name="Description" component={DescriptionScreen} />
-        <Stack.Screen name="Mycart" component={MycartScreen} />
-     
-      
-        
-
+        <Stack.Screen name="Mycart" component={MycartScreen} />   
       </Stack.Navigator>
       
    
@@ -51,7 +47,6 @@ const Home = () => {
       <Stack.Screen name="Mycart" component={MycartScreen} />
       <Stack.Screen name="Game" component={GameScreen} />
       <Stack.Screen name="Notification" component={NotificationScreen} />
-   
     </Stack.Navigator>
   );
 }
