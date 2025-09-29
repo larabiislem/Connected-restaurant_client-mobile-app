@@ -15,9 +15,9 @@ A mobile application designed for connected restaurants, enabling customers to e
 ## Screenshots
 
 <div>
-  <img src="images/IMG_4433.png" alt="Screen 1" width="300"/>
+  <img src="images/IMG_4436.png" alt="Screen 1" width="300"/>
   <img src="images/IMG_4434.png" alt="Screen 2" width="300"/>
-  <img src="images/IMG_4436.png" alt="Screen 3" width="300"/>
+  <img src="images/IMG_4435.png" alt="Screen 3" width="300"/>
 </div>
 
 ## Getting Started
