@@ -1,50 +1,63 @@
-# Welcome to your Expo app 👋
+# Connected Restaurant Client Mobile App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A mobile application designed for connected restaurants, enabling customers to enjoy seamless and personalized dining experiences. Through this app, users can browse restaurant menus, place orders, make secure payments, manage reservations, and benefit from real-time recommendations and loyalty tracking—all from their tablet or smartphone.
 
-## Get started
+## Features
 
-1. Install dependencies
+- **Menu Browsing:** Explore restaurant menus, view detailed dish descriptions, and customize orders.
+- **Order Placement:** Place orders directly from your device and receive updates in real-time.
+- **Secure Payments:** Make safe and fast payments using integrated payment gateways.
+- **Reservation Management:** Book, modify, or cancel reservations with ease.
+- **Real-time Recommendations:** Get personalized food and drink suggestions based on preferences and history.
+- **Loyalty Tracking:** Monitor your rewards and loyalty points seamlessly.
+- **Personalized Experience:** Access tailored offers, favorite dishes, and previous orders.
 
+## Screenshots
+
+<div>
+  <img src="images/IMG_4433.png" alt="Screen 1" width="300"/>
+  <img src="images/IMG_4434.png" alt="Screen 2" width="300"/>
+  <img src="images/IMG_4435.png" alt="Screen 3" width="300"/>
+</div>
+
+## Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/larabiislem/Connected-restaurant_client-mobile-app.git
+   cd Connected-restaurant_client-mobile-app
+   ```
+
+2. **Install dependencies:**
    ```bash
    npm install
+   # or
+   yarn install
    ```
 
-2. Start the app
-
+3. **Run the app:**
    ```bash
-    npx expo start
+   npm start
+   # or
+   yarn start
    ```
 
-In the output, you'll find options to open the app in a
+## Technologies Used
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **JavaScript** (99.3%)
+- **TypeScript** (0.7%)
+- React Native / Expo (if applicable)
+- Additional libraries for state management, UI components, and API communication
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Contribution
 
-## Get a fresh project
+We welcome contributions! Please open an issue or submit a pull request with your improvements.
 
-When you're ready, run:
+## License
 
-```bash
-npm run reset-project
-```
+This project is licensed under the MIT License.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+**Contact:**  
+For support or questions, contact [Islem Larabi](https://github.com/larabiislem).
